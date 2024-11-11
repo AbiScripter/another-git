@@ -7,3 +7,10 @@ footer ul {
   display: flex;
   justify-content: space-between;
 }
+
+body,
+*,
+html {
+  padding: 0;
+  margin: 0;
+}
